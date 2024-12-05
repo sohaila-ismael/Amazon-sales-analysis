@@ -21,9 +21,6 @@ To run this project locally, ensure you have Python installed along with the fol
 - matplotlib  
 - seaborn  
 
-Install the necessary packages using:  
-```bash
-pip install pandas numpy matplotlib seaborn
 ## Usage
 
 1. Clone the repository and navigate to the project directory.
